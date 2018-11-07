@@ -1,2 +1,0 @@
-# KalkulackaDve
-Created with CodeSandbox
